@@ -1,0 +1,28 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="SelectQuery">
+<table>
+<label for="dbSelect">Select DB to Run the Query</label>
+<select id="dbSelect">
+<option>Repalda</option>
+	<option>TestDB</option>
+	<option>SiteP</option>
+</select>
+<label>Select query to Run:
+<select>
+	<option>Getting user</option>
+	<option>other</option>
+	<option>Success rate of the site</option>
+</select>
+</label>
+</table>
+</form>
+</body>
+</html>

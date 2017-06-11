@@ -1,0 +1,14 @@
+127.0.0.1 - - [30/Aug/2015:12:46:34 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [30/Aug/2015:12:46:48 +0530] "GET /AMS_project/FlatRegistration.jsp HTTP/1.1" 200 4627
+0:0:0:0:0:0:0:1 - - [30/Aug/2015:12:46:48 +0530] "GET /AMS_project/logout.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Aug/2015:12:46:48 +0530] "GET /AMS_project/homee.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Aug/2015:12:46:48 +0530] "GET /AMS_project/BackgroundImage.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Aug/2015:12:47:11 +0530] "POST /AMS_project/FlatRegistrationController HTTP/1.1" 200 4810
+0:0:0:0:0:0:0:1 - - [30/Aug/2015:12:47:22 +0530] "POST /AMS_project/FlatRegistrationController HTTP/1.1" 200 4898
+0:0:0:0:0:0:0:1 - - [30/Aug/2015:12:47:28 +0530] "GET /AMS_project/Adminloginsuccess.jsp HTTP/1.1" 200 4792
+0:0:0:0:0:0:0:1 - - [30/Aug/2015:12:47:30 +0530] "GET /AMS_project/FlatRegistration.jsp HTTP/1.1" 200 4627
+0:0:0:0:0:0:0:1 - - [30/Aug/2015:12:59:14 +0530] "GET /AMS_project/Adminloginsuccess.jsp HTTP/1.1" 200 4792
+0:0:0:0:0:0:0:1 - - [30/Aug/2015:12:59:15 +0530] "GET /AMS_project/FlatRegistration.jsp HTTP/1.1" 200 4627
+0:0:0:0:0:0:0:1 - - [30/Aug/2015:12:59:18 +0530] "GET /AMS_project/Adminloginsuccess.jsp HTTP/1.1" 200 4792
+0:0:0:0:0:0:0:1 - - [30/Aug/2015:12:59:27 +0530] "GET /AMS_project/Pay1.jsp HTTP/1.1" 200 1406
+0:0:0:0:0:0:0:1 - - [30/Aug/2015:12:59:34 +0530] "GET /AMS_project/Adminloginsuccess.jsp HTTP/1.1" 200 4792

@@ -1,0 +1,14 @@
+127.0.0.1 - - [08/Aug/2016:17:07:58 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [08/Aug/2016:17:08:01 +0530] "GET /onBoarding/ HTTP/1.1" 200 1501
+0:0:0:0:0:0:0:1 - - [08/Aug/2016:17:08:01 +0530] "GET /onBoarding/site.css HTTP/1.1" 404 1032
+0:0:0:0:0:0:0:1 - - [08/Aug/2016:17:08:01 +0530] "GET /onBoarding/images.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [08/Aug/2016:17:08:18 +0530] "GET /onBoarding/signin.jsp HTTP/1.1" 200 1697
+0:0:0:0:0:0:0:1 - - [08/Aug/2016:17:08:18 +0530] "GET /onBoarding/site.css HTTP/1.1" 404 1032
+0:0:0:0:0:0:0:1 - - [08/Aug/2016:17:08:28 +0530] "POST /onBoarding/SignInController HTTP/1.1" 200 1529
+0:0:0:0:0:0:0:1 - - [08/Aug/2016:17:08:28 +0530] "GET /onBoarding/site.css HTTP/1.1" 404 1032
+0:0:0:0:0:0:0:1 - - [08/Aug/2016:17:08:31 +0530] "GET /onBoarding/signin.jsp HTTP/1.1" 200 1697
+0:0:0:0:0:0:0:1 - - [08/Aug/2016:17:08:31 +0530] "GET /onBoarding/site.css HTTP/1.1" 404 1032
+0:0:0:0:0:0:0:1 - - [08/Aug/2016:17:08:39 +0530] "POST /onBoarding/SignInController HTTP/1.1" 200 1537
+0:0:0:0:0:0:0:1 - - [08/Aug/2016:17:08:39 +0530] "GET /onBoarding/site.css HTTP/1.1" 404 1032
+0:0:0:0:0:0:0:1 - - [08/Aug/2016:17:09:33 +0530] "GET /onBoarding/ HTTP/1.1" 200 1501
+0:0:0:0:0:0:0:1 - - [08/Aug/2016:17:09:33 +0530] "GET /onBoarding/site.css HTTP/1.1" 404 1032
