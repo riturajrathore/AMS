@@ -12,6 +12,7 @@ import com.ams.vo.FlatRegisterVO;
 /**
  * Servlet implementation class FlatRegistrationController
  */
+
 public class FlatRegistrationController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
