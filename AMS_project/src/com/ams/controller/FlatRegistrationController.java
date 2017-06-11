@@ -11,6 +11,7 @@ import com.ams.exceptions.AMSException;
 import com.ams.vo.FlatRegisterVO;
 /**
  * Servlet implementation class FlatRegistrationController
+ * test comment for github
  */
 
 public class FlatRegistrationController extends HttpServlet {
